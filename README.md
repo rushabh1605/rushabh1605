@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/rushabh1605) [![Profile](https://komarev.com/ghpvc/?username=rushabh1605&color=blue)](https://github.com/rushabh1605) [![followers](https://img.shields.io/github/followers/rushabh1605?style=social)](https://github.com/rushabh1605?tab=followers)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/rushabh1605) [![Repos Badge](https://badges.pufler.dev/repos/rushabh1605)](https://github.com/rushabh1605?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rushabhthakkar/) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/rushabh1605/)
 <br>
 
+- 👨‍💻 Computer Science and Engineering Student
+
 - 🌱 I’m currently learning **Data Science🤩**
 
+- 💻 Working on Machine Learning projects and Web Development
 
 
 
