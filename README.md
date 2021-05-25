@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Science🤩**
 
-- <details> <summary> 💬 Ask me about Technical Staff </summary> <a href="https://wa.me/" target="blank"><img align="center" src="" width="35px" /></a>
+- <details> <summary> 💬 Ask me about Technical Staff </summary> <a href="https://wa.me/" target="https://github.com/rushabh1605/rushabh1605/blob/main/files/WA.png"><img align="center" src="" width="35px" /></a>
 </details>  
+
 - <details> <summary> 📫 How to reach me :</summary><a href="mailto:rushabht1605@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details> 
 
