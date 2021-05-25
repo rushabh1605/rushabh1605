@@ -84,11 +84,7 @@ Here are some ideas to get you started:
    <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
       alt="Rushabh's Github Stats" width="60%">
-      
-   <img
-      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rushabh1605&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
-      width="37%" alt="Rushabh's Top Languages">
-      
+            
    <br>
 </div>
 
@@ -100,18 +96,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 </details>
+<details>
+  <summary>Most used languages :heart: </summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" /></p>
+</details> <br>
 
 <br><br>
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RUshabhThakkar&logoColor=blue" /></a></h4>
 
-
-
-
-
-
-<!-- 
-<img
-      src="https://komarev.com/ghpvc/?username=rushabh1605&color=red"
-      width="12%" alt="Profile Views">
-   <br>
---> 
