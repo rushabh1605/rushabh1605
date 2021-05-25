@@ -79,17 +79,19 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
 <h4 align="center">Streak</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
-
-   <h4>Most used languages</h4>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" />
    <br><br>
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=rushabh1605&theme=juicyfresh&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" /></a></h4>
+
+<br><br>
+![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
+
 
