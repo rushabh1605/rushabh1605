@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-   <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/tenor.gif" alt="Welcome!" width="500" />
+   <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/tenor.gif" alt="Welcome!"  />
 
 </div>
 
