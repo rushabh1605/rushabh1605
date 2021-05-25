@@ -25,15 +25,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" width="50">
-
    <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/tenor.gif" alt="Welcome!"  />
-
 </div>
 
-<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> I'm Rushabh Thakkar </span> <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Developer.gif" width="65px"> </h2>
-
-
-
+<h1 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> I'm Rushabh Thakkar </span> <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Developer.gif" width="65px"> </h1>
 
 <img
       src="https://komarev.com/ghpvc/?username=rushabh1605&color=green"
