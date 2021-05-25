@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <br><br>
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 
-<img  alt="GIF"  width="45px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
 
 <div align="center">
    
@@ -68,7 +67,8 @@ Here are some ideas to get you started:
    ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
    ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+   
+   <img  alt="GIF"  src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
 </div>
 
 <div align="center">
