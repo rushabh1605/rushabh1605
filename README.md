@@ -45,8 +45,12 @@ Here are some ideas to get you started:
 </details>
 
 <br><br>
-<div align="center">
+<img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 
+<img align="right" alt="GIF"  width="45px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
+
+<div align="center">
+   
    ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
    ![mongodb](https://img.shields.io/badge/-MongoDB-cbbcb1?style=flat-square&logo=mongodb&logoColor=556052)
    ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
