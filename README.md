@@ -96,7 +96,9 @@ Here are some ideas to get you started:
 
 <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Handshake.gif" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/rushabhthakkar/">
+<p align="center">
+   <br>
+   <a href="https://www.linkedin.com/in/rushabhthakkar/">
   <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Linkedin.svg" alt="linkedin" width="24px" />
 </a>  
  
@@ -110,6 +112,17 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/rushabht1605" target="blank">
   <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Twitter.svg" width="26px" />
-</a>
+</a> 
+   <br>
+   <a href="mailto:rushabht1605@gmail.com?subject=Hola%20Rushabh!"><img
+         src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Gmail" /></a>&nbsp;
+   <a href="https://devpost.com/rushabh1605"><img
+         src="https://img.shields.io/badge/devpost-999b84.svg?&style=for-the-badge&logo=devpost&logoColor=white"
+         alt="LinkedIn" /></a>&nbsp;
+   <a href="https://devfolio.co/@RushabhThakkar"><img
+         src="https://img.shields.io/badge/devfolio-87a7b3.svg?&style=for-the-badge&logo=devfolio&logoColor=white"
+         alt="LinkedIn" /></a>&nbsp;
+</p>
 <br> <br> <br>
 
