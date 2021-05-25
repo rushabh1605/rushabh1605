@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 <h4 align="center">Streak</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
-   <h4>Most used languages :heart: </h4>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" /></p>
-</details> <br>
+   <h4>Most used languages</h4>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" />
+   <br><br>
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
