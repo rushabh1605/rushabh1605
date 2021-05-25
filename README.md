@@ -68,7 +68,7 @@ Here are some ideas to get you started:
    ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
    
-   <img  alt="GIF"  src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
+   <img  alt="GIF" width="100px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
 </div>
 
 <div align="center">
