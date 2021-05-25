@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <br><br>
 ![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
 
-align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Handshake.gif" height="30px"></h4> <br>
+<h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Handshake.gif" height="30px"></h4> <br>
 
 <a href="https://www.linkedin.com/in/rushabhthakkar/">
   <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Linkedin.svg" alt="linkedin" width="24px" />
