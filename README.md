@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
       alt="Rushabh's Github Stats" width="60%">
             
-   <br>
+   <br><br>
 </div>
 
 <details align="center">
