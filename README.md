@@ -94,4 +94,22 @@ Here are some ideas to get you started:
 <br><br>
 ![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
 
+align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Handshake.gif" height="30px"></h4> <br>
+
+<a href="https://www.linkedin.com/in/rushabhthakkar/">
+  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Linkedin.svg" alt="linkedin" width="24px" />
+</a>  
+ 
+<a href="https://instagram.com/rushh_ab" target="blank">
+  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Instagram.svg" alt="instagram" width="24px" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCNNtlinMdc_3Ur__8UqjDTQ" target="blank">
+  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/youtube.png" alt="youtube"  width="25px" height='23.5' />
+</a>
+
+<a href="https://twitter.com/rushabht1605" target="blank">
+  <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Twitter.svg" width="26px" />
+</a>
+<br> <br> <br>
 
