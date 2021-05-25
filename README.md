@@ -74,34 +74,7 @@ Here are some ideas to get you started:
 <img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 <div align="center">
 
-   _<h4 align="center">Streak</h4>_
-
-   <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
-         alt="rushabh1605" /></p>
-
-   _<h4 align="center">Stats</h4>_
-   <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
-      alt="Rushabh's Github Stats" width="60%">
-            
-   <br><br>
-</div>
-<br>
-
-<br><br>
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rushabh1605&theme=juicyfresh&layout=compact&title_color=00FF00"/>
-  </a>
-</p>
-</details>
-<details>
-   <summary>Most used languages :heart: </summary>
-   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" /></p>
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" /></a></h4>
 
