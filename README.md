@@ -24,8 +24,7 @@ Here are some ideas to get you started:
    </h2>
 </div>
 
-<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> I'm Rushabh Thakkar </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
-         width="38" height="38"/> </h2>
+<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> I'm Rushabh Thakkar </span> <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Developer.gif" width="65px"> </h2>
 
 
 
