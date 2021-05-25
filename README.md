@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fdc545e5a0f93c9b2bf1d4f0af54ebbff%2Ftenor.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&tbnid=ky-iVL4X7DNiXM&vet=12ahUKEwiM79WcqOTwAhXTMXIKHfS4BXcQMygEegUIARCKAg..i&docid=4Gbv2Us6fF852M&w=220&h=165&q=programmer%20gif&ved=2ahUKEwiM79WcqOTwAhXTMXIKHfS4BXcQMygEegUIARCKAg" alt="Welcome!" width="500" />
+   <img src="https://github.com/rushabh1605/rushabh1605/blob/main/files/tenor.gif" alt="Welcome!" width="500" />
 
 </div>
 
