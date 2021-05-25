@@ -45,10 +45,12 @@ Here are some ideas to get you started:
 </details>
 
 <br><br>
-<div align="center">
+<img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 
+
+<div align="center">
+   
    ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-   ![mongodb](https://img.shields.io/badge/-MongoDB-cbbcb1?style=flat-square&logo=mongodb&logoColor=556052)
    ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
    ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
    ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -65,49 +67,31 @@ Here are some ideas to get you started:
    ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
    ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
    ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+   
+   <img  alt="GIF" width="100px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
 </div>
 
+<img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 <div align="center">
 
-   _<h4 align="center">Streak</h4>_
-
-   <p><img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
-         alt="rushabh1605" /></p>
-
-   _<h4 align="center">Stats</h4>_
-   <img align="left"
-      src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
-      alt="Rushabh's Github Stats" width="60%">
-      
-   <img
-      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rushabh1605&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
-      width="37%" alt="Rushabh's Top Languages">
-      
-   <br>
-</div>
-
+<p>&nbsp;
+<h4 align="center">Stats</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
+<h4 align="center">Streak</h4>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh1605&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="rushabh1605" />
+   <br><br>
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=rushabh1605&theme=juicyfresh&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" /></a></h4>
 
 <br><br>
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RUshabhThakkar&logoColor=blue" /></a></h4>
+![Rushabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushabh1605&theme=dracula&layout=compact&title_color=FF69B4)
 
 
-
-
-
-
-<!-- 
-<img
-      src="https://komarev.com/ghpvc/?username=rushabh1605&color=red"
-      width="12%" alt="Profile Views">
-   <br>
---> 
