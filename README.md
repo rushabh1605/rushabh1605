@@ -114,14 +114,13 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/rushabht1605" target="blank">
   <img align="left" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/Twitter.svg" width="26px" />
 </a> 
-   <br>
-   <a href="mailto:rushabht1605@gmail.com?subject=Hola%20Rushabh!"><img
+<a href="mailto:rushabht1605@gmail.com?subject=Hola%20Rushabh!"><img
          src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" /></a>&nbsp;
-   <a href="https://devpost.com/rushabh1605"><img
+<a href="https://devpost.com/rushabh1605"><img
          src="https://img.shields.io/badge/devpost-999b84.svg?&style=for-the-badge&logo=devpost&logoColor=white"
          alt="LinkedIn" /></a>&nbsp;
-   <a href="https://devfolio.co/@RushabhThakkar"><img
+<a href="https://devfolio.co/@RushabhThakkar"><img
          src="https://img.shields.io/badge/devfolio-87a7b3.svg?&style=for-the-badge&logo=devfolio&logoColor=white"
          alt="LinkedIn" /></a>&nbsp;
 </p>
