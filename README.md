@@ -41,10 +41,29 @@ Here are some ideas to get you started:
 - <details> <summary> 📫 How to reach me :</summary><a href="mailto:rushabht1605@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a>
 </details> 
 
-- <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
+- <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact lol
 </details>
 
 <br><br>
+<div align="center">
+
+   _<h4 align="center">Streak</h4>_
+
+   <p><img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=dark&hide_border=true&fire=b6336c&sideNums=b6336c&currStreakNum=b6336c&sideLabels=743cc7&ring=743cc7&currStreakLabel=743cc7&background=141321&dates=c8c2bc"
+         alt="rushabh1605" /></p>
+
+   _<h4 align="center">Stats</h4>_
+   <img align="left"
+      src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&theme=radical&border_color=141321&text_color=c8c2bc"
+      alt="Rushabh's Github Stats" width="60%">
+      
+   <img
+      src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rushabh1605&show_icons=true&hide_border=true&theme=radical&text_color=c8c2bc"
+      width="37%" alt="Rushabh's Top Languages">
+      
+   <br>
+</div>
 
 
 
