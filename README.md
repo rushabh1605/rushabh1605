@@ -74,7 +74,10 @@ Here are some ideas to get you started:
 <img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 <div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
+<p>&nbsp;
+<h4 align="center">Stats</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabh1605&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&count_private=true&theme=dark&custom_title=Bonjour Programmers! 👏&layout=compact" alt="Rushabh Thakkar"/></p>
+<h4 align="center">Streak</h4>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh1605&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/rushabh1605?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" /></a></h4>
 
