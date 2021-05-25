@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 <!-- Header section -->
 
 <div align="center">
-   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,
+   <h2> Hola
       <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
    </h2>
 </div>
+
+<h2 align="center"> <span style="colour:red font-family:Papyrus; font-size:4em;"> I'm Rushabh Thakkar </span> <img src="https://media.giphy.com/media/nF64geTGfVoNq/source.gif" align="center"
+         width="38" height="38"/> </h2>
+
+
 
 
 <img
