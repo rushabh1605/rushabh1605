@@ -71,6 +71,7 @@ Here are some ideas to get you started:
    <img  alt="GIF" width="100px" src="https://github.com/rushabh1605/rushabh1605/blob/main/files/giphy%20(1).gif" />
 </div>
 
+<img height="27" src="https://img.shields.io/badge/Rushabh Thakkar's GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=RushabhThakkar&logoColor=blue" />
 <div align="center">
 
    _<h4 align="center">Streak</h4>_
