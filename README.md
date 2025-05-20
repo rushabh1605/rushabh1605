@@ -86,8 +86,6 @@
 |--------|-------------|
 | [Sales-Data-Analysis](https://github.com/rushabh1605/Sales-Data-Analysis) | EDA on retail sales to determine trends, ad timing, and product combos |
 | [Information-Retrieval-from-News-Articles](https://github.com/rushabh1605/Information-Retrieval-from-News-Articles) | NLP project for extracting structured insights from raw news articles |
-| [Real-Time Insurance ETL (fork)](https://github.com/rushabh1605/Real-Time-Insurance-claims-Data-ETL-Pipeline) | Real-time data pipeline with Snowflake, Airflow, AWS, and Tableau |
-
 ---
 
 > _"Show ❤️ by ⭐ starring your favorite repositories!"_
